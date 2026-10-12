@@ -1,0 +1,4 @@
+interface:
+  display_name: "Science Exhibition Diary"
+  short_description: "Analyze classroom media and draft science-fair diary entries"
+  default_prompt: "Analyze the selected folder of classroom photos and videos and prepare a science-fair diary draft."
